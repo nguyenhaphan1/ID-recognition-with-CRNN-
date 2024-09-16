@@ -25,10 +25,10 @@ Recognize ID from VNID card using CRNN model
 |  |--image4.jpg
 |  |--image5.jpg
 |
-|--train_annotation.txt
-|--test_annotation.txt
+|--/train_annotation.txt
+|--/test_annotation.txt
 |
-|--table.txt
+|--/table.txt
 ```
 
 4. train/test_annotation.txt (mjsynth format)
