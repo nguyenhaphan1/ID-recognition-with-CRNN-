@@ -38,7 +38,7 @@ Example: /data/train/image1.jpg 012345678910
 ```
 
 5. Change the config file to coresponding directory setup (mjsynth.yml)
- <img src="[url](https://github.com/user-attachments/assets/eab2bafd-ca89-4655-9797-bfd90091fb51)" alt="mjsynth" width="300" height="300">
+ <img src="[url](https://github.com/user-attachments/assets/eab2bafd-ca89-4655-9797-bfd90091fb51.png)" alt="mjsynth" width="300" height="300">
 6. Train the model with custom dataset
 ```
 !python CRNN.tf2/crnn/train.py --config mjsynth.yml --save_dir 'runs/train'
