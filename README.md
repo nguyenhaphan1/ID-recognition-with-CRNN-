@@ -32,9 +32,12 @@ data/
 ```
 
 4. train/test_annotation.txt (mjsynth format)
+   
 ```
 [path_to_image] [annotation]
-Example: /data/train/image1.jpg 012345678910
+Example (train_annotation.txt):
+/data/train/image1.jpg 012345678910
+/data/train/image2.jpg 111111111111
 ```
 
 5. Change the config file to coresponding directory setup (mjsynth.yml)
