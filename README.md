@@ -40,9 +40,11 @@ Example: /data/train/image1.jpg 012345678910
 5. Change the config file to coresponding directory setup (mjsynth.yml)
  <img src="https://github.com/nguyenhaphan1/ID-recognition-with-CRNN-/blob/main/mjsynth.png" alt="mjsynth" width="400" height="300">
 6. Train the model with custom dataset
+ 
 ```
 !python CRNN.tf2/crnn/train.py --config mjsynth.yml --save_dir 'runs/train'
 ```
+
 **Reference:**
 
 CRNN: [FLming](https://github.com/FLming/CRNN.tf2)
