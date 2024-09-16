@@ -1,1 +1,13 @@
 Recognize ID from VNID card using CRNN model
+
+1. Clone the github [FLming](https://github.com/FLming/CRNN.tf2)
+
+```
+!git clone https://github.com/FLming/CRNN.tf2
+```
+
+
+
+**Reference:**
+
+CRNN: [FLming](https://github.com/FLming/CRNN.tf2)
