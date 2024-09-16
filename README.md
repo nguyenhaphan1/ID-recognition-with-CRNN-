@@ -38,7 +38,7 @@ Example: /data/train/image1.jpg 012345678910
 ```
 
 5. Change the config file to coresponding directory setup (mjsynth.yml)
-![mjsynth.yml][]
+![mjsynth](https://github.com/user-attachments/assets/eab2bafd-ca89-4655-9797-bfd90091fb51)
 
 6. Train the model with custom dataset
 ```
